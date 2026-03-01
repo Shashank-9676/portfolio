@@ -40,7 +40,7 @@ export const Contact = () => {
 
   const contactInfo = [
     { label: 'Email', value: 'shashankchowdary09@gmail.com', href: 'mailto:shashankchowdary09@gmail.com' },
-    { label: 'Location', value: 'Andhra Pradesh, India', href: 'no' },
+    { label: 'Location', value: 'Andhra Pradesh, India', href: '' },
     { label: 'Phone', value: '+91 9676020532', href: 'tel:+919676020532' },
   ];
 

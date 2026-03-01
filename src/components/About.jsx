@@ -97,8 +97,8 @@ export const About = () => {
               <div className="relative group">
                 <div className="absolute -inset-1 bg-gradient-to-r from-sky-600 to-sky-400 rounded-2xl blur opacity-25 group-hover:opacity-50 transition duration-1000 group-hover:duration-200" />
                 <div className="relative aspect-square w-full max-w-md overflow-hidden rounded-2xl bg-white dark:bg-slate-800">
-                  <img
-                    src="https://res-console.cloudinary.com/dnhc09agd/thumbnails/v1/image/upload/v1767936823/R2VtaW5pX0dlbmVyYXRlZF9JbWFnZV83dmdmc3Y3dmdmc3Y3dmdmX2ZheWlwNA==/template_primary/Y19jcm9wLGhfMTAwMA=="
+                  <img draggable={false}
+                    src="https://res.cloudinary.com/dnhc09agd/image/upload/v1767936823/Gemini_Generated_Image_7vgfsv7vgfsv7vgf_fayip4.png"
                     alt="Shashank"
                     className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
                   />
